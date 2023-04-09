@@ -1,15 +1,19 @@
 {
-  "name": "guess-my-number-js",
+  "name": "guess-the-number",
   "version": "1.0.0",
-  "description": "",
-  "default": "script.js",
+  "description": "guess the number, win the game",
+  "main": "script.js",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivonamojsovska/guess-my-number-js.git"
   },
   "author": "Ivona Mojsovska",
   "license": "ISC",
-  "dependencies": {
-    "parcel": "^2.8.0"
-  }
+  "bugs": {
+    "url": "https://github.com/ivonamojsovska/guess-my-number-js/issues"
+  },
+  "homepage": "https://github.com/ivonamojsovska/guess-my-number-js#readme"
 }
