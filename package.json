@@ -2,21 +2,20 @@
   "name": "guess-the-number",
   "version": "1.0.0",
   "description": "guess the number, win the game",
-  "main": "script.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build"
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivonamojsovska/guess-my-number-js.git"
+    "url": "git+https://github.com/ivonamojsovska/guess-the-number.git"
   },
   "author": "Ivona Mojsovska",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ivonamojsovska/guess-my-number-js/issues"
+    "url": "https://github.com/ivonamojsovska/guess-the-number/issues"
   },
-  "homepage": "https://github.com/ivonamojsovska/guess-my-number-js#readme",
+  "homepage": "https://github.com/ivonamojsovska/guess-the-number#readme",
   "dependencies": {
     "parcel": "^2.8.3"
   }
